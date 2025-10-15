@@ -4,10 +4,9 @@
 🚀 Passionate about performance, clean code, and scalable architecture.
 
 ### 🧰 Tech Stack
-- **Frontend:** Vue.js, React, TailwindCSS
-- **Backend:** Laravel, Node.js
-- **Database:** MySQL, PostgreSQL
-- **DevOps:** Docker, GitHub Actions
+- **Frontend:** Vue.js
+- **Backend:** Laravel
+- **Database:** MySQL,mongodb
 
 ### 📊 GitHub Stats
 ![Ehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehabtalaat&show_icons=true&theme=radical)
@@ -19,4 +18,4 @@
 - 💸 **Arzan:** Business process automation system
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/ehabtalaat) • [Portfolio](https://yourportfolio.com) • [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/ehabtalaat) • [Email](mailto:ehabtalaat5552@gmail.com)
