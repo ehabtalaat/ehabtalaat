@@ -18,8 +18,6 @@ Currently exploring **microservices architecture** and **API scalability with La
 
 ### ⚡ Activity
 
-### ⚡ GitHub Streak
-
 ![Ehab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ehabtalaat&theme=github-compact&hide_border=true)
 
 ### 📊 GitHub Stats
