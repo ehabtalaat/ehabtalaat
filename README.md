@@ -41,14 +41,6 @@ Currently exploring **microservices architecture** and **API scalability with La
 
 ### 🚀 Featured Projects
 
-#### 🛒 Agri
-> E-commerce food platform built with Laravel & Vue.js  
-> 🧾 Integrated KNET payment gateway and optimized backend performance.
-
-#### 📱 Enjoy App
-> Lifestyle platform with user app & admin dashboard  
-> 📊 Built real-time reporting and notification modules.
-
 #### 🏫 Schoolna
 > School management system built with Laravel + Vue.js  
 > ⚡ Improved system performance and fixed legacy issues.
@@ -56,6 +48,14 @@ Currently exploring **microservices architecture** and **API scalability with La
 #### 💸 Arzan
 > Business process management app  
 > 🔧 Designed and implemented process modules and backend logic.
+
+#### 🛒 Agri
+> E-commerce food platform built with Laravel & Vue.js  
+> 🧾 Integrated KNET payment gateway and optimized backend performance.
+
+#### 📱 Enjoy App
+> Lifestyle platform with user app & admin dashboard  
+> 📊 Built real-time reporting and notification modules.
 
 ---
 
