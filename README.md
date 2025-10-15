@@ -19,7 +19,6 @@ Currently exploring **microservices architecture** and **API scalability with La
 ### ⚡ Activity
 
 ### ⚡ GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ehabtalaat&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![Ehab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ehabtalaat&theme=github-compact&hide_border=true)
 
