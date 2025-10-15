@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Ehab Talaat
 
-<!--
-**ehabtalaat/ehabtalaat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | Laravel & Vue.js  
+🚀 Passionate about performance, clean code, and scalable architecture.
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+- **Frontend:** Vue.js, React, TailwindCSS
+- **Backend:** Laravel, Node.js
+- **Database:** MySQL, PostgreSQL
+- **DevOps:** Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Ehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehabtalaat&show_icons=true&theme=radical)
+
+### 🌱 Recent Projects
+- 🛒 **Agri:** E-commerce food platform with KNET payment integration  
+- 📱 **Enjoy App:** Comprehensive lifestyle app with admin dashboard  
+- 🏫 **Schoolna:** Vue + Laravel platform with performance improvements  
+- 💸 **Arzan:** Business process automation system
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/ehabtalaat) • [Portfolio](https://yourportfolio.com) • [Email](mailto:you@example.com)
