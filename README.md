@@ -17,9 +17,10 @@ Currently exploring **microservices architecture** and **API scalability with La
 - **Database:** MySQL,mongodb
 
 ### ⚡ Activity
-[![Ehab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehabtalaat&theme=radical)](https://git.io/streak-stats)
 
-[![Ehab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ehabtalaat&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ehabtalaat&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![Ehab's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ehabtalaat&theme=github-compact&hide_border=true)
 
 ### 📊 GitHub Stats
 ![Ehab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehabtalaat&show_icons=true&theme=radical)
